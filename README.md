@@ -1,3 +1,3 @@
-Visit [charleslien.github.io/blog](https://charleslien.github.io/blog) to see the site.
+Visit [charleslien.github.io/notes](https://charleslien.github.io/notes) to see the site.
 
 Forked from [jobindjohn's repo](https://github.com/jobindjohn/obsidian-publish-mkdocs).
