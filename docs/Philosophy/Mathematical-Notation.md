@@ -1,6 +1,8 @@
-\(Related: [[Mathematical-Rigor]]\)
+# Mathematical Notation
 
-Mathematical notation is the language used by mathematicians to communicate unambiguously. However, it can be very complicated to someone who doesn't know the language and even sometimes complicated to people who understand the concepts easily.
+Mathematical notation is the language used by mathematicians to communicate unambiguously.
+
+However, it can be very complicated to someone who doesn't know the language and even sometimes complicated to people who understand the concepts easily.
 
 ## Introduction
 Consider the following expression:
@@ -54,3 +56,6 @@ is probably more than a few seconds. Every single detail is important. From the 
 
 ## So What?
 The point is, most mathematical expressions aren't as complicated as you expect them to be when you're just a normal person looking at the math "calculating meme" (not included for copyright reasons). It's as if the creator of these "math things" designed them to be extremely esoteric and complex to a layperson. The good thing is, it's not impossible to learn. Just be patient, take it step by step, and most importantly **try to understand the concept behind the statement rather than the statement itself**.
+
+## Related
+[[Mathematical-Rigor]]
