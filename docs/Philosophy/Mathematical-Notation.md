@@ -5,14 +5,17 @@ Mathematical notation is the language used by mathematicians to communicate unam
 
 ## Introduction
 Consider the following expression:
+
 $$
 \sum_{n=1}^{100}n
 $$
+
 For someone who doesn't know any mathematical notation, the symbols and numbers can be overwhelming and confusing, especially . Once you learn the concepts involved, like any mathematician would, the concepts become simple.
 
 It is in fact, so simple that even a first grader could understand what this expression is trying to convey. I'll try to explain it in very simple terms.
 
 Imagine the following process of adding numbers:
+
 - Start with the number 1
 - Then, add 2
 - Then, add 3
@@ -29,19 +32,25 @@ Being able to parse the expression is the source of the complexity, and even sea
 I believe that one of the main issues with introducing mathematical notation to a layperson is that it is very information-dense. Changing any symbol could vastly change the meaning of any expression. In any other language, changing a single symbol or character usually doesn't completely alter the meaning of the sentence.
 
 For example, if someone were to typo the following sentence:
+
 $$
 \text{"Hello, my name is Charles!"} \rightarrow \text{"Helo, my name is Charles!"}
 $$
+
 The reader could easily infer that the sentence was misspelled, and in fact, probably reconstruct the original sentence. However, this is not the case for mathematics. the expression
+
 $$
 \sum_{n=1}^{100}n\rightarrow\sum_{n=11}^{100}n
 $$
+
 are only off by 1 single character, yet they mean very different things. A reader, even a mathematician, even knowing that something was wrong with the expression, would not be able to reconstruct the original .
 
 Assuming a human brain can only process a certain amount of information, they would necessarily have to read mathematical expressions more slowly than text written in any spoken language. For exmample, perhaps there is a person who is able to read 5 words per second. Even if they were a seasoned mathematician, the amount of time it would take them to read (and understand) the following expression
+
 $$
 f(x)=\int_3^5xe^{-x^2}\cos(2\pi y)dy
 $$
+
 is probably more than a few seconds. Every single detail is important. From the 3 and 5 on the $\int$ to the $dy$ at the end, implying that the $x$ and $y$ need to be treated differently. (*Side note: It turns out the equation evaluates to $f(x)=0$*)
 
 ## So What?
