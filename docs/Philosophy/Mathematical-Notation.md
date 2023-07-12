@@ -58,4 +58,4 @@ is probably more than a few seconds. Every single detail is important. From the 
 The point is, most mathematical expressions aren't as complicated as you expect them to be when you're just a normal person looking at the math "calculating meme" (not included for copyright reasons). It's as if the creator of these "math things" designed them to be extremely esoteric and complex to a layperson. The good thing is, it's not impossible to learn. Just be patient, take it step by step, and most importantly **try to understand the concept behind the statement rather than the statement itself**.
 
 ## Related
-[[Mathematical-Rigor]]
+[Mathematical Rigor](Mathematical-Rigor.md)
