@@ -1,5 +1,4 @@
-Related:
-[Mathematical Rigor](Philosophy/Mathematical-Rigor.md)
+\(Related: [[Mathematical-Rigor]]\)
 
 Mathematical notation is the language used by mathematicians to communicate unambiguously. However, it can be very complicated to someone who doesn't know the language and even sometimes complicated to people who understand the concepts easily.
 
